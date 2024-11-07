@@ -1,5 +1,5 @@
-- nom :
-- prénom :
+- nom : Darle-Felbacq
+- prénom : Paul
 - URL Netlify : https://leafy-blini-9990ab.netlify.app/
 
 # Travail
