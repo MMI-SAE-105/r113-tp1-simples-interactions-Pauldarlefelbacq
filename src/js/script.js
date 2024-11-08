@@ -8,7 +8,7 @@ aMettreEnRouge.style.color ="red";
 
 const enRougeSuiteAClick = document.querySelector("#en-rouge-suite-a-click");
 enRougeSuiteAClick.addEventListener("click", (evt) =>{
-    enRougeSuiteAClick.style.color ="red"
+    enRougeSuiteAClick.style.color ="red";
 })
 
 //Ex3
@@ -16,6 +16,6 @@ enRougeSuiteAClick.addEventListener("click", (evt) =>{
 const collH2 = document.querySelectorAll("H2");
 collH2.forEach((elm)=>{
     elm.addEventListener("click", (evt)=>{
-        evt.target.style.color ="red"
+        evt.target.style.color ="red";
     });
 });
